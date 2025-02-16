@@ -7,6 +7,7 @@ __pycache__/
 
 # C extensions
 *.so
+*/example
 
 # Distribution / packaging
 .Python
@@ -183,3 +184,8 @@ fabric.properties
 
 # idea folder, uncomment if you don't need it
 # .idea
+
+*/fashion_model_nikita
+*/logs
+*/logs_nikita
+*.h5
